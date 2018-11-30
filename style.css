@@ -1,0 +1,73 @@
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #f0fff0;
+    margin: 20px;
+    padding: 0;
+}
+
+/* This is a comment, by the way */
+
+p {
+    line-height: 21px;
+}
+
+h1 {
+    color: black;
+    background-color: #f0f8ff;
+    font-size: 2em;
+    margin: 20px;
+    margin-bottom: 7px;
+    padding: 40px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #fcc;
+}
+
+h2 {
+    color: white;
+    background-color: #86c3ad;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+	border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: #fff0f5;
+}
+
+h3 {
+    color: #999;
+    font-size: 1.25em;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+    color: #ffe4e1;
+    font-style: italic;
+}
+
+table {
+    background-color: #ccc;
+}
